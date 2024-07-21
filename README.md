@@ -119,3 +119,31 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/DVD-Rental-Prediction.git
    cd DVD-Rental-Prediction
+2. **Install the required dependencies:**
+   ```bash
+   Copy code
+   pip install -r requirements.txt
+3. **Run the data preprocessing script:**
+   ```bash
+   Copy code
+   python preprocess_data.py
+4. **Train and evaluate the models:**
+   ```bash
+   Copy code
+   python train_models.py
+5. View the results:
+   The evaluation results and recommendations can be found in the **results** directory.
+
+## License
+**Title:** License
+
+## Description:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+**Title:** Acknowledgements
+
+**Description:**
+We would like to thank the DVD rental company for providing the data and the opportunity to work on this project.
+
+Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or feature requests. Happy coding!
