@@ -121,17 +121,8 @@ To run this project, follow these steps:
    cd DVD-Rental-Prediction
 2. **Install the required dependencies:**
    ```bash
-   Copy code
    pip install -r requirements.txt
-3. **Run the data preprocessing script:**
-   ```bash
-   Copy code
-   python preprocess_data.py
-4. **Train and evaluate the models:**
-   ```bash
-   Copy code
-   python train_models.py
-5. View the results:
+3. View the results:
    The evaluation results and recommendations can be found in the **results** directory.
 
 ## License
